@@ -1,6 +1,16 @@
 # On the Usefulness of Deep Ensemble Diversity for Out-of-Distribution Detection
 
-This repository contains code for our paper 
+This repository contains code for our paper accepted to the Workshop on Uncertainty Quantification for Computer Vision at ECCV 2022. If you found either the paper or the code useful please consider citing it:
+```bibtex
+@article{Xia2022OnTU,
+  title={On the Usefulness of Deep Ensemble Diversity for Out-of-Distribution Detection},
+  author={Guoxuan Xia and Christos-Savvas Bouganis},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2207.07517}
+}
+```
+
 
 ## Requirements
 The main requirements for this repository are:
